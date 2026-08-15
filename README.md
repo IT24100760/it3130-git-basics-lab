@@ -16,3 +16,7 @@ I learned that staging allows me to choose which changes I want to commit, while
 ## Pair Collaboration
 
 This repository was used to practise GitHub collaboration through feature branches, pull requests, peer review, and merging.
+
+## GitHub Flow
+
+This section was added to demonstrate the GitHub Flow workflow.
